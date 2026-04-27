@@ -1,0 +1,15 @@
+/.git
+/.gitignore
+/.github
+/.editorconfig
+/docker-compose.yml
+/docker-compose.yaml
+/.DS_Store
+/.env*
+!.env.example
+/node_modules
+/vendor
+/storage/logs/*
+/storage/framework/views/*
+/storage/framework/sessions/*
+/storage/framework/cache/*

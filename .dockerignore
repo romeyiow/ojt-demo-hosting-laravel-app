@@ -24,3 +24,8 @@
 phpunit.xml
 pint.json
 .editorconfig
+/vendor
+/node_modules
+/storage/*.sqlite
+.env
+.git

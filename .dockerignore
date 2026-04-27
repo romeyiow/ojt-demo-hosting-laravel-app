@@ -20,8 +20,6 @@
 /DOCKER.md
 /CLAUDE.md
 /GEMINI.md
-/composer.lock
-/package-lock.json
 .npmrc
 phpunit.xml
 pint.json
